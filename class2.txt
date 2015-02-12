@@ -1,1 +1,2 @@
-THis is a master branch
+this is second day of training
+THis is a develop branch copy
